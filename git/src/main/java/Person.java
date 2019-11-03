@@ -7,4 +7,6 @@
  * @Date: 2019/11/3 18:10
  */
 public class Person {
+
+    private String name;
 }
